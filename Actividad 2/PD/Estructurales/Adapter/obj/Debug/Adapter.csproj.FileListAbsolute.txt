@@ -1,0 +1,2 @@
+C:\Users\fblan\Downloads\Parcial2-master\PatronesDiseño\Estructurales\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\fblan\Downloads\Parcial2-master\PatronesDiseño\Estructurales\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
